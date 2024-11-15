@@ -1,2 +1,2 @@
 # My-works
-frme tkinter import*
+frome tkinter import*
